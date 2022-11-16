@@ -4,7 +4,7 @@
 - 미공개, 개발중
 
 ## 포트폴리오 (개발한 레포)
-- 준비중
+- [GetPassword](https://github.com/hmogae/getpwd)
 
 <h3 align="left">소셜미디어:</h3>
 <p align="left">
