@@ -14,10 +14,10 @@
 - 블로그: https://blog.hmogae.com
 - 디스코드: https://discord.gg/8PjE5q9jRr
   
-## 💻 포트폴리오들
+## 💻 포트폴리오
 ### 일반:
 - [GetPassword](https://github.com/hmogae/getpwd)
-### 웹사이트
+### 웹사이트:
 - 메인: https://hmogae.com
 ### 디스코드봇:
 -  스마트봇
@@ -25,3 +25,6 @@
 - 업다운 게임봇
 - 비트게임봇 (개발예정)
 - 인공지능 봇 (챗gpt, 바드 등) (개발예정)
+
+## 😀 스탯
+![Hmogae's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmogae&show_icons=true&theme=radical)
