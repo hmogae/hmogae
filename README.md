@@ -27,4 +27,4 @@
 - 인공지능 봇 (챗gpt, 바드 등) (개발예정)
 
 ## 😀 스탯
-![Hmogae's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmogae&show_icons=true&theme=radical)
+![Hmogae's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmogae&show_icons=true)
