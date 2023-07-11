@@ -28,4 +28,3 @@
 
 ## 😀 스탯
 ![Hmogae's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmogae&show_icons=true)
-![Hmogae's GitHub stats](https://komarev.com/ghpvc/?username=hmogae&color=green)
