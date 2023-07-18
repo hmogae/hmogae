@@ -7,7 +7,7 @@
 ## 🌱 관심 분야 및 스택
 - 관심 분야: 웹개발, 인공지능(AI), 보안, 서버, 클라우드, 웹사이트 등
 - 사용 가능한 프로그래밍 언어: Python 등
-- 기술 스택: Flask, Django, FastAPI
+- 기술 스택: Flask, Django, FastAPI, nextcord, py-cord, discord.py 등
 
 ## 📫 연락처
 - 이메일: mango@hmogae.com
@@ -28,3 +28,4 @@
 
 ## 😀 스탯
 ![Hmogae's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmogae&show_icons=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmogae&layout=compact)](https://github.com/hmogae/github-readme-stats)
