@@ -6,19 +6,19 @@
 
 ## 🌱 관심 분야 및 스택
 - 관심 분야: 웹개발, 인공지능(AI), 보안, 서버, 클라우드, 웹사이트 등
-- 사용 가능한 프로그래밍 언어: Python 등
+- 사용 가능한 프로그래밍 언어: Python, C언어, C# 등
 - 기술 스택: Flask, Django, FastAPI, nextcord, py-cord, discord.py 등
 
 ## 📫 연락처
-- 이메일: mango@hmogae.com
-- 블로그: https://blog.hmogae.com
+- 이메일: help@mangoit.kr
+- 블로그: https://blog.mangoit.kr
 - 디스코드: https://discord.gg/8PjE5q9jRr
   
 ## 💻 포트폴리오
 ### 일반:
 - [GetPassword](https://github.com/hmogae/getpwd)
 ### 웹사이트:
-- 메인: https://hmogae.com
+- 메인: https://mangoit.kr
 ### 디스코드봇:
 -  스마트봇
 - 서버관리봇
