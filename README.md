@@ -1,4 +1,4 @@
-# 안녕하세요, 망고입니다! 👋
+# 안녕하세요, hmog입니다.
 저는 프로그램을 개발하는 개발자이며, 다양한 프로젝트, 서비스와 팀에서 협업하여 개발 경험 및 경력을 쌓고 있습니다. 
 
 ## 💼 개발경력
@@ -10,21 +10,19 @@
 - 기술 스택: Flask, Django, FastAPI, nextcord, py-cord, discord.py 등
 
 ## 📫 연락처
-- 이메일: help@mangoit.kr
-- 블로그: https://blog.mangoit.kr
+- 이메일: hmog37@gmail.com
+- 블로그: 
 - 디스코드: https://discord.gg/8PjE5q9jRr
   
 ## 💻 포트폴리오
 ### 일반:
 - [GetPassword](https://github.com/hmogae/getpwd)
 ### 웹사이트:
-- 메인: https://mangoit.kr
+- 메인: 
 ### 디스코드봇:
 -  스마트봇
 - 서버관리봇
 - 업다운 게임봇
-- 비트게임봇 (개발예정)
-- 인공지능 봇 (챗gpt, 바드 등) (개발예정)
 
 ## 😀 스탯
 ![Hmogae's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmogae&show_icons=true)
